@@ -3,7 +3,7 @@
 - 🏋️ I'm currentry implementing... 
   - microservice with typescript and grpc
   - bff with typescript and graphql
-  - client side application with react(next)
+  - client side application with typescript and react(next)
 - 🌱 I’m currently learning Typescript(React, Next, NestJs, etc).
 
 ### Quick Overview
