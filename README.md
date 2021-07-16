@@ -2,18 +2,15 @@
 - 🔭 I’m currently working on IT company in japan🇯🇵.
 - 🏋️ I'm currentry implementing... 
   - microservice with typescript and grpc
-  - bff with typescript and graphql
-  - client side application with typescript and react(next)
+  - bff with typescript and graphql(apollo server)
+  - client side application with typescript ,react(next) and apollo client.
 - 🌱 I’m currently learning Typescript(React, Next, NestJs, etc).
 
 ### Quick Overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=masa08&count_private=true&show_icons=true" />
 </a>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa08&langs_count=3)](https://github.com/anuraghazra/github-readme-stats" />
-</a> -->
-<!--
+
 **masa08/masa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
