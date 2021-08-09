@@ -1,5 +1,5 @@
 ### Hi there, I'm masa08 👋
-- 🔭 I’m currently working on IT company in japan🇯🇵.
+- 🔭 I’m currently working on IT company in japan🇯🇵 and developing toC media.
 - 🏋️ I'm currentry implementing... 
   - microservice with typescript and grpc
   - bff with typescript and graphql(apollo server)
