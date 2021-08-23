@@ -1,22 +1,19 @@
-### Hi there, I'm masa08 👋
-- 🔭 I’m currently working on IT company in japan🇯🇵 and developing toC media.
+Hi everyone, thanks to visit my profile page!
+
+## whoami
+- 📍 Tokyo, Japan
+- 👨‍💻 Software engineer - 1.5 client side (React,Flutter) : 2 server side (Ruby,Go,JS)
 - 🏋️ I'm currentry implementing... 
-  - microservice with typescript and grpc
-  - bff with typescript and graphql(apollo server)
+  - microservice with typescript and grpc server.
+  - bff with typescript and graphql(apollo server).
   - client side application with typescript ,react(next) and apollo client.
 - 🌱 I’m currently learning Typescript(React, Next, NestJs, etc).
 
-<!-- ### Quick Overview -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=masa08&count_private=true&show_icons=true" /> -->
+## Interest
+WIP
 
-<!-- 
-**masa08/masa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project
+TBD
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+## Career
+WIP
