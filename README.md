@@ -2,7 +2,7 @@ Hi everyone, thanks to visit my profile page!
 
 ## whoami
 - 📍 Tokyo, Japan
-- 👨‍💻 Software engineer - 2 client side (React,Flutter) : 2 server side (Ruby,Go,JS)
+- 👨‍💻 Software engineer - 2 client side (TypeScript(React), Dart(Flutter)) : 2 server side (Ruby(Rails), JS/TS(NestJs))
 - 🏋️ I'm currentry working on...
   - microservice with typescript and grpc server.
   - bff with typescript and graphql(apollo server).
