@@ -7,11 +7,11 @@ Hi everyone, thanks to visit my profile page!
   - microservice with typescript and grpc server.
   - bff with typescript and graphql(apollo server).
   - client side application with typescript ,react(next) and apollo client.
-- 🌱 I’m learning Typescript(React, Next, NestJs, etc).
+- 🌱 I’m learning Typescript(with React, Next, NestJs etc).
 
 ## Interest
-- Client side development with ReactJs(Next), especially performance, the way to render, and state management.
-- Architecture in client side development(atomic design, presentational and container component, React Hooks etc...).
+- Client side development with ReactJs(Next).
+- Architecture.
 
 ## Project
 TBD
