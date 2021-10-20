@@ -11,7 +11,8 @@ Hi everyone, thanks to visit my profile page!
 
 ## Interest
 - Client side development with ReactJs(Next).
-- Architecture.
+- Design system and UI library.
+- Application Architecture(clean architecture etc...).
 
 ## Project
 TBD
