@@ -7,7 +7,6 @@ Hi everyone, thanks to visit my profile page!
   - microservice with typescript and grpc server.
   - bff with typescript and graphql(apollo server).
   - client side application with typescript ,react(next) and apollo client.
-- 🌱 I’m learning Typescript(with React, Next, NestJs etc).
 
 ## Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -22,6 +21,9 @@ Hi everyone, thanks to visit my profile page!
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+## Learning
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Interest
 - Client side development with ReactJs(Next).
