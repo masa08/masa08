@@ -39,6 +39,8 @@ TBD
     - Worked on a mobile app with Dart(Flutter)
     - Worked on a saas system with Golang(go-swagger) and TypeScript(Nuxt)
     - Worked on a media with TypeScript(Next with apollo client, apollo server, grpc etc...)
+- Zipunk(2021/3~)
+  - Software engineer, Frontend as a side job
 - Photream(2019/2 ~ 2020/3)
   - Software engineer, Full stack
     - Worked on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
