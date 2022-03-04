@@ -2,7 +2,9 @@ Hi everyone, thanks to visit my profile page!
 
 ## whoami
 - 📍 Tokyo, Japan
-- 👨‍💻 Software engineer - 2 client side (TypeScript(React), Dart(Flutter)) : 2 server side (Ruby(Rails), JS/TS(NestJs))
+- 👨‍💻 Software engineer
+  - 2 years client side (TypeScript(React))
+  - 2 years server side (Ruby(Rails), JS/TS(NestJs))
 - 🏋️ I'm currentry working on...
   - microservice with typescript and grpc server.
   - bff with typescript and graphql(apollo server).
@@ -34,13 +36,14 @@ Hi everyone, thanks to visit my profile page!
 TBD
 
 ## Career
-- Leverages(2020/4 ~ now)
+- Zipunk(2021/3~)
+  - Software engineer, Frontend , as a side job
+    - Worked on video messaging saas app.
+- Leverages(2020/4 ~ 2022/3)
   - Software engineer, Frontend
     - Worked on a mobile app with Dart(Flutter)
     - Worked on a saas system with Golang(go-swagger) and TypeScript(Nuxt)
     - Worked on a media with TypeScript(Next with apollo client, apollo server, grpc etc...)
-- Zipunk(2021/3~)
-  - Software engineer, Frontend as a side job
 - Photream(2019/2 ~ 2020/3)
   - Software engineer, Full stack
     - Worked on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
