@@ -36,6 +36,9 @@ Hi everyone, thanks to visit my profile page!
 TBD
 
 ## Career
+- Commmune(2022/4~)
+  - Software engineer
+    - TBD
 - Zipunk(2021/3~)
   - Software engineer, Frontend , as a side job
     - Worked on video messaging saas app.
