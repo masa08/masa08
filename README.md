@@ -25,10 +25,13 @@ Hi everyone, thanks to visit my profile page!
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ## Learning
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Interest
 - Client side development with ReactJs(Next).
+- Mobile App development with Dart/Flutter.
 - Design system and UI library.
 - Application Architecture(clean architecture etc...).
 
@@ -38,10 +41,10 @@ TBD
 ## Career
 - Commmune(2022/4~)
   - Software engineer
-    - TBD
+    - Work on Mobile App development.
 - Zipunk(2021/3~)
   - Software engineer, Frontend , as a side job
-    - Worked on video messaging saas app.
+    - Worked on B2B video collaboration Saas "Quden".
 - Leverages(2020/4 ~ 2022/3)
   - Software engineer, Frontend
     - Worked on a mobile app with Dart(Flutter)
