@@ -2,13 +2,9 @@ Hi everyone, thanks to visit my profile page!
 
 ## whoami
 - 📍 Tokyo, Japan
-- 👨‍💻 Software engineer
-  - 2 years client side (TypeScript(React))
+- 👨‍💻 Software engineer, especially Frontend. 
+  - 2 years client side (JS/TS(React))
   - 2 years server side (Ruby(Rails), JS/TS(NestJs))
-- 🏋️ I'm currentry working on...
-  - microservice with typescript and grpc server.
-  - bff with typescript and graphql(apollo server).
-  - client side application with typescript ,react(next) and apollo client.
 
 ## Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,27 +26,23 @@ Hi everyone, thanks to visit my profile page!
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Interest
-- Client side development with ReactJs(Next).
-- Mobile App development with Dart/Flutter.
+- Client side development(web, desktop app, mobile app).
 - Design system and UI library.
 - Application Architecture(clean architecture etc...).
-
-## Project
-TBD
 
 ## Career
 - Commmune(2022/4~)
   - Software engineer
-    - Work on Mobile App development.
-- Zipunk(2021/3~)
-  - Software engineer, Frontend , as a side job
-    - Worked on B2B video collaboration Saas "Quden".
+    - Work on implementing Mobile App development with Dart(Flutter).
+- Zipunk(2021/3~, side job)
+  - Software engineer, Frontend
+    - Work on implementing B2B video collaboration Saas "Quden".
 - Leverages(2020/4 ~ 2022/3)
   - Software engineer, Frontend
-    - Worked on a mobile app with Dart(Flutter)
-    - Worked on a saas system with Golang(go-swagger) and TypeScript(Nuxt)
-    - Worked on a media with TypeScript(Next with apollo client, apollo server, grpc etc...)
+    - Worked on implementing a mobile app with Dart(Flutter)
+    - Worked on implementing a Saas system with Golang(go-swagger) and TypeScript(Nuxt)
+    - Worked on implementing a toC media with TypeScript(Next with apollo client, apollo server, grpc etc...)
 - Photream(2019/2 ~ 2020/3)
   - Software engineer, Full stack
-    - Worked on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
-    - Worked on a management system with Ruby(RubyOnRails) and TypeScript(React).
+    - Worked implementing on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
+    - Worked implementing on a management system with Ruby(RubyOnRails) and TypeScript(React).
