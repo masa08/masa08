@@ -33,7 +33,7 @@ Hi everyone, thanks to visit my profile page!
 ## Career
 - Commmune(2022/4~)
   - Software engineer
-    - Work on implementing Mobile App development with Dart(Flutter).
+    - Work on implementing Mobile App with Dart(Flutter).
 - Zipunk(2021/3~, side job)
   - Software engineer, Frontend
     - Work on implementing B2B video collaboration Saas "Quden".
