@@ -1,10 +1,10 @@
 Hi everyone, thanks to visit my profile page!
 
 ## whoami
-- 📍 Tokyo, Japan
+- 📍 Based in Tokyo, Japan
 - 👨‍💻 Software engineer, especially Frontend. 
-  - 2 years client side (JS/TS(React))
-  - 2 years server side (Ruby(Rails), JS/TS(NestJs))
+  - 2.5 years client side (JS/TS(React), Dart(Flutter))
+  - 2 years server side (JS/TS(NestJs, express), Ruby(Rails))
 
 ## Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -27,8 +27,8 @@ Hi everyone, thanks to visit my profile page!
 
 ## Interest
 - Client side development(web, desktop app, mobile app).
-- Design system and UI library.
 - Application Architecture(clean architecture etc...).
+- Build a good team and culture.
 
 ## Career
 - Commmune(2022/4~)
