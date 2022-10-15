@@ -3,8 +3,8 @@ Hi everyone, thanks to visit my profile page!
 ## whoami
 - 📍 Based in Tokyo, Japan
 - 👨‍💻 Software engineer, especially Client Side(web and mobile).
-  - 3 years client side (JS/TS(React), Dart(Flutter))
-  - 2 years server side (JS/TS(NestJs, express), Ruby(Rails))
+  - 3.5 years client side development(JS/TS(React), Dart(Flutter))
+  - 2 years server side development(JS/TS(NestJs, express), Ruby(Rails))
 
 ## Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,18 +26,19 @@ Hi everyone, thanks to visit my profile page!
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ## Interest
+- Build a good team and culture.
 - Client side development(web, desktop app, mobile app).
 - Application Architecture(clean architecture etc...).
-- Build a good team and culture.
 
 ## Career
 - Commmune(2022/4~now)
-  - Software engineer
+  - Software engineer, Mobile app
     - Work on implementing Mobile App with Dart(Flutter).
-    - Work on implementing Web App with TypeScript(React)
+    - Work on implementing Web App with TypeScript(React).
 - Zipunk(2021/3~now, side job)
   - Software engineer, Frontend
     - Work on implementing B2B video collaboration Saas "Quden" with TypeScript(React, Next, Nest...).
+    - Work on implementing chrome extension for quden.
 - Leverages(2020/4 ~ 2022/3)
   - Software engineer, Frontend
     - Worked on implementing a mobile app with Dart(Flutter)
