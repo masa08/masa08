@@ -1,6 +1,8 @@
 Hi everyone, thanks to visit my profile page!
 
 ## whoami
+I am a client engineer specializing in mobile app, web app, and chrome extension development, with expertise in using Flutter and React frameworks.
+
 - 📍 Based in Tokyo, Japan
 - 👨‍💻 Software engineer, especially Client Side(web and mobile).
   - 4 years client side development(JS/TS(React), Dart(Flutter))
