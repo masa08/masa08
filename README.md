@@ -5,7 +5,7 @@ I am a client engineer specializing in both mobile and web development, with exp
 
 - 📍 Based in Tokyo, Japan
 - 👨‍💻 Software engineer, especially Client Side(web and mobile).
-  - 4.5 years client side development(JS/TS(React), Dart(Flutter))
+  - 5 years client side development(JS/TS(React), Dart(Flutter))
   - 2 years server side development(JS/TS(NestJs, express), Ruby(Rails))
 
 ## Language
@@ -22,16 +22,11 @@ I am a client engineer specializing in both mobile and web development, with exp
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## Interest
-- Client side development(web, desktop app, mobile app).
-- Application Architecture(clean architecture etc...).
-- Build a good team and culture.
-
 ## Career
 - Commmune(2022/4~now)
   - Software engineer, Mobile app
     - Work on implementing Mobile App with Dart(Flutter).
-    - Lead a mobile team as a teamlead
+    - Lead a mobile team as a teamlead.
 - Zipunk(2021/3~now, side job)
   - Software engineer, Frontend
     - Work on implementing B2B video collaboration Saas "Quden" with TypeScript(React, Next, Nest...).
