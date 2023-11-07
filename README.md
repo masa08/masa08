@@ -40,3 +40,12 @@ I am a client engineer specializing in both mobile and web development, with exp
   - Software engineer, Full stack
     - Worked implementing on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
     - Worked implementing on a management system with Ruby(RubyOnRails) and TypeScript(React).
+
+## Side projects
+- Vocabview
+  - An English vocabulary learning app that aims to memorize words with images, implemented in Flutter.
+  - Link: https://apps.apple.com/jp/app/vocabview/id6458540984
+	
+- ushimaru.dev
+  - A blog site to write about my output and thoughts, implemented in Next.js.
+  - Link: https://www.ushimaru.dev/
