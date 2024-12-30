@@ -1,20 +1,18 @@
 Hi everyone, thanks to visit my profile page!
 
-## whoami
-I am a client engineer specializing in both mobile and web development, with expertise in using Flutter and React frameworks.
+# whoami
+A Full-Stack engineer based in Tokyo with 5+ years of experience 🧑‍💻
+I've been working on web application development, mobile application and Desktop application development mainly using React, Flutter and Electron.
 
-- 📍 Based in Tokyo, Japan
-- 👨‍💻 Software engineer, especially Client Side(web and mobile).
-  - 5 years client side development(JS/TS(React), Dart(Flutter))
-  - 2 years server side development(JS/TS(NestJs, express), Ruby(Rails))
+Creating good software product, making clean source code and scalable software, and building excellent organization are my biggest passions.
 
-## Language
+# Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-## Frameworks and Environments
+# Frameworks and Environments
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -22,7 +20,7 @@ I am a client engineer specializing in both mobile and web development, with exp
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## Career
+# Career
 - Commmune(2022/4~now)
   - Software engineer, Mobile app
     - Work on implementing Mobile App with Dart(Flutter).
@@ -41,7 +39,7 @@ I am a client engineer specializing in both mobile and web development, with exp
     - Worked implementing on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
     - Worked implementing on a management system with Ruby(RubyOnRails) and TypeScript(React).
 
-## Side projects
+# Side projects
 - Vocabview
   - An English vocabulary learning app that aims to memorize words with images, implemented in Flutter.
   - Link: https://apps.apple.com/jp/app/vocabview/id6458540984
