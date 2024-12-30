@@ -2,9 +2,8 @@ Hi everyone, thanks to visit my profile page!
 
 # whoami
 A Full-Stack engineer based in Tokyo with 5+ years of experience 🧑‍💻
-I've been working on web application development, mobile application and Desktop application development mainly using React, Flutter and Electron.
 
-Creating good software product, making clean source code and scalable software, and building excellent organization are my biggest passions.
+I've been working on web application development, mobile application and Desktop application development mainly using React, Flutter and Electron. Creating good software product, making clean source code and scalable software, and building excellent organization are my biggest passions.
 
 # Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +38,7 @@ Creating good software product, making clean source code and scalable software, 
     - Worked implementing on a admin system with Ruby(RubyOnRails) and JavaScript(react-rails).
     - Worked implementing on a management system with Ruby(RubyOnRails) and TypeScript(React).
 
-# Side projects
+# Side projects and others
 - Vocabview
   - An English vocabulary learning app that aims to memorize words with images, implemented in Flutter.
   - Link: https://apps.apple.com/jp/app/vocabview/id6458540984
@@ -47,3 +46,6 @@ Creating good software product, making clean source code and scalable software, 
 - ushimaru.dev
   - A blog site to write about my output and thoughts, implemented in Next.js.
   - Link: https://www.ushimaru.dev/
+
+- University of the People
+  - I am studying Computer Science in UoPeople(2023/11~).
