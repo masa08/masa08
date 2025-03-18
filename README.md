@@ -1,7 +1,7 @@
 Hi everyone, thanks to visit my profile page!
 
 # whoami
-A Full-Stack engineer based in Tokyo with 5+ years of experience 🧑‍💻
+A Full-Stack engineer based in Tokyo with 6+ years of experience 🧑‍💻
 
 I've been working on web application development, mobile application and Desktop application development mainly using React, Flutter and Electron. Creating good software product, making clean source code and scalable software, and building excellent organization are my biggest passions.
 
@@ -20,7 +20,9 @@ I've been working on web application development, mobile application and Desktop
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 # Career
-- Commmune(2022/4~now)
+- EIS ltd(2025/2~Now)
+  - Senior FullStack Developer
+- Commmune(2022/4~2025/1)
   - Software engineer, Mobile app
     - Work on implementing Mobile App with Dart(Flutter).
     - Lead a mobile team as a teamlead.
