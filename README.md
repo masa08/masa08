@@ -1,9 +1,19 @@
 Hi everyone, thanks to visit my profile page!
 
 # whoami
-A Full-Stack engineer based in Tokyo with 6+ years of experience 🧑‍💻
+## 👤 About Me
+I’m a Full-Stack Engineer based in Tokyo with over 6 years of experience, specializing in frontend development using modern JavaScript frameworks and Flutter.
 
-I've been working on web application development, mobile application and Desktop application development mainly using React, Flutter and Electron. Creating good software product, making clean source code and scalable software, and building excellent organization are my biggest passions.
+I’ve built and maintained web, mobile, and desktop applications using technologies like React, Flutter, and Electron. My work spans from single-page applications to mobile-first platforms and cross-platform desktop apps.
+
+I'm passionate about building great software products, writing clean and scalable code, and contributing to strong and effective engineering teams.
+
+## 💼 Experience
+Web frontend development / Web API development / Mobile application development / Desktop application development / Chrome extension development
+
+## 🛠 Skills
+Languages & Frameworks: JavaScript, TypeScript, Dart, React, Next.js, Node.js, NestJS, Flutter, Electron
+Cloud & Tools: AWS, GitHub Actions, CI/CD, Docker, Firebase
 
 # Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
