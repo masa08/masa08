@@ -13,6 +13,7 @@ Web frontend development / Web API development / Mobile application development 
 
 ## 🛠 Skills
 Languages & Frameworks: JavaScript, TypeScript, Dart, React, Next.js, Node.js, NestJS, Flutter, Electron
+
 Cloud & Tools: AWS, GitHub Actions, CI/CD, Docker, Firebase
 
 # Language
