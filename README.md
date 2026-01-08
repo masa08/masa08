@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Full-Stack Engineer based in Tokyo with 6.5+ years of experience, specializing in frontend development with modern JavaScript frameworks and Flutter.
+I'm a Full-Stack Engineer based in Tokyo with 7+ years of experience, specializing in frontend development with modern JavaScript frameworks and Flutter.
 
 ## 🚀 What I Do
 
