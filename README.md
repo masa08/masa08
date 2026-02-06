@@ -4,7 +4,7 @@ I'm a Full-Stack Engineer based in Tokyo with 7+ years of experience, specializi
 
 ## 🚀 What I Do
 
-I love building quality software products with clean, scalable code. I work best in collaborative teams where we support each other and aim to create meaningful impact.
+I enjoy building software that is not only technically solid, but also genuinely useful to people in the real world. I care deeply about writing clean, robust, and scalable code that can grow with both the product and the business.
 
 **What I work with:**
 - **Frontend**: React, Next.js, Flutter — Creating smooth, fast user interfaces
@@ -12,7 +12,7 @@ I love building quality software products with clean, scalable code. I work best
 - **Mobile**: Flutter (iOS/Android) — Making apps that work great on any device
 - **Desktop**: Electron — Developing powerful desktop applications
 
-I've delivered products across web, mobile, and desktop platforms — from single-page apps to mobile-first solutions. I'm motivated by building products that reach people around the world and make their lives better.
+I thrive in collaborative environments where team members openly share ideas, support one another, and work toward clear outcomes. Delivering results as a team—and seeing our work make a meaningful impact—is what motivates me most as an engineer.
 
 ## 🛠 Tech Stack
 
