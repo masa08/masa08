@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Full-Stack Engineer based in Tokyo with 7+ years of experience, specializing in frontend development with modern JavaScript frameworks and Flutter.
+Customer Success Engineer with 8+ years of experience in software engineering, previously working as a Full-stack Software Engineer. Experienced in end-to-end product development, system architecture, and engineering process improvement, with a proven track record of leading technical projects and building engineering teams. Combines a strong technical foundation with a customer-centric mindset, collaborating with customers and cross-functional teams to solve complex challenges and drive business outcomes.
 
 ## 🚀 What I Do
 
